@@ -1,5 +1,5 @@
 # RFM-Model-Using-Power-BI
-This is Project show RFM model using power BI 
+This is Project show RFM model using power BI for more Explanation read this article [RFM Model](https://medium.com/@jumahanje/rfm-model-using-power-bi-b84235c5a98b)
 
 # RFM & Customer Retention Analysis
 
